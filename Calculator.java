@@ -31,7 +31,7 @@ public class Calculator {
               System.out.println("Sum is:" + sum);
               
         }
-        else if (choice == 2){
+       /* else if (choice == 2){
             subtraction sub = new subtraction();
             int diff=sub.subtraction(a,b);
             System.out.println("diff is:" + diff);
@@ -45,7 +45,7 @@ public class Calculator {
             multiplication mul = new multiplication();
             int prod=mul.multiplication(a,b);
             System.out.println("mul is:" + prod);
-        } 
+        } */
  
         System.out.println();
         kb.close();
