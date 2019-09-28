@@ -21,8 +21,8 @@ public class Calculator {
         int choice = kb.nextInt();
         System.out.println();
         
-        int a= kb.nextInt();
-        int b= kb.nextInt();
+        int a= 10;
+        int b= 5;
 
        
         if (choice == 1){
