@@ -18,7 +18,7 @@ public class Calculator {
         System.out.println("4. Multiplication");
 
         System.out.print("\nWhat would you like to do?: ");
-        int choice = kb.nextInt();
+        int choice = 1;
         System.out.println();
         
         int a= 10;
